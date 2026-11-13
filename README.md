@@ -21,6 +21,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 
 | Problem | Description | Link |
 |---|---|---|
+| 2D Convolution from Scratch | Implement multichannel two-dimensional cross-correlation from scratch with multiple filters, stride, padding, and bias. | https://www.tensortonic.com/problems/dl-convolution-operation |
 | Pooling Layers | Implement channelwise two-dimensional max and average pooling with configurable kernel and stride. | https://www.tensortonic.com/problems/dl-pooling-layers |
 | Implement Dot Product | Compute the algebraic dot product and geometric angle relationship for two equal-length NumPy vectors. | https://www.tensortonic.com/problems/la-dot-product |
 | Tensor Operations | Perform common element-wise and matrix tensor operations: add, multiply, matmul, power, and max. | https://www.tensortonic.com/problems/pytorch-tensor-arithmetic |
